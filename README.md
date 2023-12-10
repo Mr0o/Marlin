@@ -6,4 +6,4 @@ I used this [post](https://3dprinting.stackexchange.com/questions/19617/configur
 
 Built for the Ender 3 with a BLtouch and a 4.2.2 Creality board.
 
-I would recommend compiling Marlin yourself, but if you would like, the firmware bin file has been made available as a [Release](https://github.com/Mr0o/Marlin/releases/download/2.1.2.1/firmware-20231209-220408.bin).
+I would recommend compiling Marlin yourself, but if you would like, the firmware bin file has been made available in the [Release tab](https://github.com/Mr0o/Marlin/releases/tag/2.1.2.1).
